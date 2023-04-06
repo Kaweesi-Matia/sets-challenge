@@ -8,7 +8,7 @@
 
 
 ## Challenge description
-this is set challenge
+this is set challenge with javascript
 
 ### Sets
 
