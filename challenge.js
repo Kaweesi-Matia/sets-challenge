@@ -1,5 +1,5 @@
 function findDuplicates(array) {
-  // write your code here
+  // write your code here.
   const set = new Set(array)
   const duplicates = array.filter(item => {
     if (set.has(item)) {
